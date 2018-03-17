@@ -25,9 +25,9 @@ SECRET_KEY = '0&fs2@!#tceoav7*y-@4@8hhn#l6lb#@ao&)u9a)oo7zm3fcv&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["gwf.natapp4.cc"]
 
-
+l
 # Application definition
 
 INSTALLED_APPS = [
